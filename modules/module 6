@@ -1,0 +1,11 @@
+####Glossary
+
+* For each piece of field specific terminology, use the following loop
+  
+  * Retrieve each instance where the term is used
+    
+  * Provide a short description of the term
+    
+  * Provide each instance where the term is used
+    
+* Output each term in a list
