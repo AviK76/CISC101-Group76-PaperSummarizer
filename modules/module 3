@@ -1,0 +1,17 @@
+####Guardrails
+
+Apply internal if/else logic for problem=solving:
+
+* If section missing/empty → Replace summary with below messages:
+  
+  * If Missing: "Section is missing"
+    
+  * If Empty: "Section is empty"
+    
+* If section words < 50 → Replace summary with: "Section less than 50 words"
+  
+* Any and all information included in the summary should be from the paper
+  
+* Under no circumstances should there be any information in the summary with information from outside sources
+  
+* Any and all citations should be directly from the provided paper
