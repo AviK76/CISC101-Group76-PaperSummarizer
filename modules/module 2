@@ -1,5 +1,10 @@
 ####Section Loop
 
+* Given each section, assign a variable "Summary Level"
+  
+* There should be two value: `summary_level = "short"`and `summary_level = "detailed"`
+  
+
 * Use a short loop to generate the summary for each section (e.g. Abstract, Introductions, Background)
   
   * Title
@@ -8,6 +13,10 @@
     
   * Summarize in expert terms
     
-  * Using the expert summary, summarize in laypersons terms
+    * If `summary_level = "short"`create a 1-2 sentence summary per section
+      
+    * If `summary_level = "detailed"` create a short paragraph plus a bullet list of 3-5 points for eachs ection
+      
+  * Using the expert summary, summarize in laypersons terms in the same summary level
     
   * Include citations for direct quotes
