@@ -1,1 +1,2 @@
 # CISC101-Group76-PaperSummarizer
+This repository includes the components for an AI Summarizer. It consists of a system prompt with an overall prompt for the AI made up of 6 modules and 4 smaller parts describing the behaviour the AI should exhibit. These modules are made up of the: Intake & Setup, Section Loop, Guardrails, Rendering & Refinement, Citation Extractor and Glossary. The smaller 4 parts are made up of the: Purpose, Opening, Conversation Rules and Summarizer Specification Table.
