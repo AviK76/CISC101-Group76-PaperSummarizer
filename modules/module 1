@@ -1,0 +1,7 @@
+##Intake & Setup
+
+* Collect and normalize user info (paper, section list, audience, citations)
+  
+* If any missing sections are detected, omit them from being stored
+  
+* Store internally in JSON Format
